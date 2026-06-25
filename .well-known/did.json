@@ -1,0 +1,17 @@
+{
+  "@context": ["https://www.w3.org/ns/did/v1"],
+  "id": "did:web:felipe-perera.github.io",
+  "authentication": ["did:web:felipe-perera.github.io"],
+  "assertionMethod": ["did:web:felipe-perera.github.io"],
+  "alsoKnownAs": [],
+  "service": [],
+  "verificationMethod": [
+    {
+      "id": "did:web:felipe-perera.github.io#0pYWWhhqWn05WRR-3Xo3dlS3mw3BFrsWoo_rFT1yf-g",
+      "type": "RsaVerificationKey2018",
+      "controller": "did:web:felipe-perera.github.io",
+      "@context": "https://w3id.org/security/v1",
+      "publicKeyPem": "-----BEGIN PUBLIC KEY-----\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs/COvnHJSr1QmJLF/dke\neDTDgcW1A+JPfII/9P9SB6oUAF7jKCjeQFPMjkYqI20TZLh2WN2emKmGpwW41gPy\nFJvAwAmRl06i/SQgHVphCPLfvadwt3rmESVyws3eBPiZsdsnewaVL8T96QcjbDRI\nFaE5g/lnidXVrkYxApThugb9zI3cCKB+uo+N6ZPrz1iG6oQTE4nn6UExQbTOIusG\nqWUJP1T/XLBvBV7MVJa5oyyukuA0ybLfVvk3ysmfnG7aa4Yobshcwp7c5qg9kwjZ\neJhXMfwwfrUz8MWsD1ZcDD8r/RwATGiom3dJREiqwKOIXLO4F8Bl9Q4JGhJU+wjG\nYQIDAQAB\n-----END PUBLIC KEY-----"
+    }
+  ]
+}
